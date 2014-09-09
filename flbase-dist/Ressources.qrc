@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/Checker/XN.png</file>
+        <file>Images/Checker/XP.png</file>
+        <file>Images/Checker/YN.png</file>
+        <file>Images/Checker/YP.png</file>
+        <file>Images/Checker/ZN.png</file>
+        <file>Images/Checker/ZP.png</file>
+        <file>Shaders/Refraction.fs</file>
+        <file>Shaders/Refraction.vs</file>
+    </qresource>
+</RCC>
