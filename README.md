@@ -12,5 +12,5 @@ Lorsque le logiciel est démarré, il ouvre une fenêtre d’affichage où il es
 p : Met l’animation en pause
 0 : Remet à zéro la vélocité des particules
 m : Active/désactive l’affichage de la surface par Marching Tetrahedra 
-r : Active/désactive l’effet de réfraction   approximative du liquide
+r : Active/désactive l’effet de réfraction approximative du liquide
 espace+souris : Applique une rotation au contenant
